@@ -4,9 +4,10 @@ A beginner-friendly, end-to-end data analytics project. You will download a Netf
 
 **Tools used:** Kaggle (data), SQL Server + SSMS (analysis), Tableau Public (dashboard), Git + GitHub (sharing)
 
-![Netflix Dashboard](images/netflix_dashboard.png)
+![alt text](<Netflix Dashboard (Tableau).png>)
 
 > **Live dashboard:** `PASTE_YOUR_TABLEAU_PUBLIC_LINK_HERE`
+
 > **Dataset:** [Netflix TV Shows and Movies on Kaggle](https://www.kaggle.com/datasets/victorsoeiro/netflix-tv-shows-and-movies)
 
 ---
